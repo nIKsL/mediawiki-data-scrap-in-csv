@@ -1,3 +1,8 @@
+"""
+paid work
+
+get certain information in a csv file
+"""
 import requests  # get requests
 import urllib3  # block ssl errore
 import json  # markup for python
